@@ -1,0 +1,22 @@
+.form{
+	font-size: 20px;
+    margin: 5% 0 0 45%;
+}
+
+p{
+	font-weight:bold;
+	font-size:25px;
+}
+
+.info{
+	width:100%;
+	font-size: 20px;
+    float:left;
+	margin-top:3%;
+	margin-left:5%;
+}
+
+#user_data{
+	width:90%;
+}
+
